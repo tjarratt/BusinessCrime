@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  BusinessCrime
 //
-//  Created by Tim Jarratt on 25/03/2020.
+//  Created by Tim Jarratt on 26/03/2020.
 //  Copyright © 2020 General Linear Group. All rights reserved.
 //
 
@@ -14,8 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-
-
+        // Override point for customization after application launch.
         return true
     }
 
